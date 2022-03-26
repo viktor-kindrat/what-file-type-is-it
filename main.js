@@ -58,6 +58,16 @@ let fileTypes = [{
     types: ['stl', 'obj', 'fbx', 'dae', 'blend', 'abc', 'usd', 'ply', 'stl'],
     bgColor: '#FFDA2D',
     image: "3d.png" //92 file types
+}, {
+    name: 'archive',
+    types: ['zip', 'rar', '7z', 'tar', 'mint', 'htmi', 'mpkg', 'ice', 'r2', 'b1', 'sqx'],
+    bgColor: '#E0C38C',
+    image: 'archive.png'
+}, {
+    name: 'computer label',
+    types: ['lnk'], 
+    bgColor: '#8CC7E0',
+    image: 'computer-label.png'
 }]
 
 let input = '#file-choose';
