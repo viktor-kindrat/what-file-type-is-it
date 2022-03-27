@@ -55,9 +55,9 @@ let fileTypes = [{
     image: "database.png"
 }, {
     name: '3D model',
-    types: ['stl', 'obj', 'fbx', 'dae', 'blend', 'abc', 'usd', 'ply', 'stl'],
+    types: ['stl', 'obj', 'fbx', 'dae', 'blend', 'abc', 'usd', 'ply', 'stl', '3mf'],
     bgColor: '#FFDA2D',
-    image: "3d.png" //92 file types
+    image: "3d.png" //93 file types
 }, {
     name: 'archive',
     types: ['zip', 'rar', '7z', 'tar', 'mint', 'htmi', 'mpkg', 'ice', 'r2', 'b1', 'sqx'],
