@@ -5,6 +5,8 @@ Small JS project, file type analyzer. Can  recognize more than 100 file extensio
 - Adaptivity
 - Custom design
 - More than 100 file types in 14 categories
+- JQuery
+- Error animation
 
 ### Preview:
 ![prev](https://files.fm/thumb_show.php?i=a4r89888x "prev")
